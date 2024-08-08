@@ -8,7 +8,7 @@ $$
 \end{equation}
 $$
 
-we enrich the space of parameters used for fitting the volatility surface. Here $$\theta_{\text{prior}}$$ and $$\theta_{\text{nn}}$$ are two disjoint set of parameters. Furthermore, to ensure our volatility surface is free of arbitrage, we could use the ideas by Roper (2010) which argues that if the following are satisfied then the call price surface is free of Calendar & Butterfly arbitrage resp.
+we enrich the space of parameters used for fitting the volatility surface. Here $$\Omega$$ is the implied variance and $$\theta_{\text{prior}}$$ and $$\theta_{\text{nn}}$$ are two disjoint set of parameters. Furthermore, to ensure our volatility surface is free of arbitrage, we could use the ideas by Roper (2010) which argues that if the following are satisfied then the call price surface is free of Calendar & Butterfly arbitrage resp.
 
 $$
 \begin{align*}
